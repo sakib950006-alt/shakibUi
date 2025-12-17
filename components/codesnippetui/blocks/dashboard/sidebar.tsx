@@ -68,7 +68,7 @@ export default function Sidebar() {
             >
                 <div className="h-full flex flex-col">
                     <Link
-                        href="https://ui.codesnipet.dev/"
+                        href="#"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="h-16 px-6 flex items-center border-b border-gray-200 dark:border-[#1F1F23]"
